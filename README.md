@@ -187,19 +187,6 @@ This project can be deployed easily using:
 
 ---
 
-# 📷 Screenshots
-
-## Dashboard Overview
-(Add Screenshot Here)
-
-## Student Analysis
-(Add Screenshot Here)
-
-## AI Insights
-(Add Screenshot Here)
-
----
-
 # 🔮 Future Scope
 
 - 📱 Mobile Responsive Optimization
