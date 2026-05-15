@@ -1,0 +1,1 @@
+streamlit run "d:\Minor Project\student_dashboard\app.py"
