@@ -1,10 +1,18 @@
+<div align="center">
+
 # 🎓 Student Performance Intelligence System (SPIS)
 
-An AI-powered academic analytics dashboard built using **Streamlit**, **Machine Learning**, and **Data Visualization** techniques to analyze, predict, and improve student performance.
+### 🚀 AI-Powered Academic Analytics Dashboard
 
+<a href=https://student-performance-intelligence-system-01.streamlit.app/ target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Check_Live_App-Streamlit-red?style=for-the-badge&logo=streamlit">
+</a>
 
+<a href="https://github.com/sagarmehra69/student-performance-intelligence-system" target="_blank">
+    <img src="https://img.shields.io/badge/📂_GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
 
-<div align="center">
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)
@@ -16,18 +24,13 @@ An AI-powered academic analytics dashboard built using **Streamlit**, **Machine 
 
 ---
 
-# 🌐 Live Demo
-
-🚀 **Streamlit Deployment:**  
-👉 https://YOUR-APP-NAME.streamlit.app
-
----
-
 # 📌 Project Overview
 
-The **Student Performance Intelligence System (SPIS)** is an AI-powered academic analytics dashboard designed to analyze, visualize, and predict student performance using Machine Learning and Interactive Data Visualization.
+The **Student Performance Intelligence System (SPIS)** is an AI-powered educational analytics dashboard developed using **Streamlit**, **Machine Learning**, and **Interactive Data Visualization**.
 
-The platform helps educational institutions and students gain intelligent insights into academic progress through predictive analytics, AI-generated feedback, and dynamic reporting systems.
+The system analyzes student performance, predicts academic outcomes, identifies at-risk students, and generates intelligent AI-based feedback through a modern interactive dashboard.
+
+---
 
 ---
 
