@@ -111,34 +111,35 @@ The system analyzes student performance, predicts academic outcomes, identifies 
 ```bash
 student_dashboard/
 │
-├── app.py
-├── requirements.txt
-├── spis.db
-│
 ├── assets/
-│   ├── background.jpg
-│   ├── hero.png
-│   ├── logo.png
-│   └── students.png
+│   ├── background.jpg        # Dashboard background image
+│   ├── hero.png              # Hero section image
+│   ├── logo.png              # Project logo
+│   └── students.png          # Student-related illustration
 │
 ├── data/
-│   ├── students.csv
-│   └── marks.csv
+│   ├── marks.csv             # Student marks dataset
+│   └── students.csv          # Student details dataset
 │
 ├── modules/
-│   ├── analytics.py
-│   ├── prediction.py
-│   ├── recommendation.py
-│   ├── report.py
-│   ├── visualization.py
-│   ├── sidebar.py
-│   ├── styles.py
-│   ├── loader.py
-│   ├── auth_ui.py
-│   ├── overview_tab.py
-│   ├── student_tab.py
-│   ├── ai_tab.py
-│   └── feedback_tab.py
+│   ├── __init__.py           # Package initializer
+│   ├── analytics.py          # Data analytics functions
+│   ├── database.py           # Database connection & queries
+│   ├── filters.py            # Dashboard filtering logic
+│   ├── loader.py             # Data loading utilities
+│   ├── prediction.py         # ML prediction models
+│   ├── recommendation.py     # Recommendation system
+│   ├── report.py             # Report generation
+│   ├── styles.py             # Custom styling & CSS
+│   └── visualization.py      # Charts & visualizations
+│
+├── .gitignore                # Ignored files/folders
+├── app.py                    # Main Streamlit application
+├── requirements.txt          # Python dependencies
+├── spis.db                   # SQLite database
+├── LICENSE                   # License information
+└── README.md                 # Project documentation
+
 ```
 
 ---
@@ -148,7 +149,7 @@ student_dashboard/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-performance-intelligence-system.git
+git clone https://github.com/sagarmehra69/student-performance-intelligence-system.git
 ```
 
 ---
