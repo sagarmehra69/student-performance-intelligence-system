@@ -983,7 +983,7 @@ st.markdown("""
     </p>
     <p style="margin-top: 15px; font-size: 0.85em; opacity: 0.7;">
         © 2026 Student Performance Intelligence System
-        | Developed by Sagar Mehra | BCA 2023-2026 | All rights reserved
+        | Developed by Sagar Mehra | BCA 2023-2026 | All Rights Reserved
     </p>
 </div>
 """, unsafe_allow_html=True)
